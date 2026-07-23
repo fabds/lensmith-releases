@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Lensmith</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 23 Jul 2026 21:47:11 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith-1.0.zip" length="436198964" type="application/octet-stream" sparkle:edSignature="GB+jMUw1oMFQaTUM13MgNH0gpzzl7O0KdytvY/skObzmLo0g8PZ9AKlscVnlBJbl4ca6lZucdoo4jmqX2W/7AQ=="/>
+        </item>
+    </channel>
+</rss>

@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.1",
-  "minimumSupportedVersion": "0.1",
+  "latestVersion": "0.1.0",
+  "minimumSupportedVersion": "0.1.0",
   "killSwitch": false,
   "downloadURL": "https://github.com/fabds/lensmith-releases/releases/latest"
 }

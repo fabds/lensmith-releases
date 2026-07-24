@@ -1,9 +1,8 @@
 {
-  "latestVersion": "0.1.0",
+  "latestVersion": "0.1.1",
   "minimumSupportedVersion": "0.1.0",
   "killSwitch": false,
+  "message": "Aggiorna Lensmith all'ultima versione",
   "downloadURL": "https://github.com/fabds/lensmith-releases/releases/latest",
-  "betaCodeHashes": [
-    "760a7933da6e55ee5eb849f1c207a315287b6f1eda6dbfab6d10af08200ffbc1"
-  ]
+  "betaCodeHashes": []
 }

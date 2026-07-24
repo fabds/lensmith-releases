@@ -4,5 +4,7 @@
   "killSwitch": false,
   "message": "Aggiorna Lensmith all'ultima versione",
   "downloadURL": "https://github.com/fabds/lensmith-releases/releases/latest",
-  "betaCodeHashes": []
+  "betaCodeHashes": [
+    "db2bc5d405efb8a63f70ca9e8a863182f4b08ca0fd05650a365822ac9aa137d3"
+  ]
 }

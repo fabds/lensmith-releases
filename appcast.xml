@@ -3,6 +3,18 @@
     <channel>
         <title>Lensmith</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Fri, 24 Jul 2026 17:15:05 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith-0.1.1.zip" length="75022345" type="application/octet-stream" sparkle:edSignature="I4tVFBscMdPMazqDs4xotV1eX6GUNOjknN8mlSjlkOLOfYyOM9QCe7RHHd7xc9j5p913hwtMC35pDGqfW935Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith2-1.delta" sparkle:deltaFrom="1" length="1012250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w/IpLNuI7owPDf7gJtXlYKW336X5da9y6pMaWfa4HA88Q5884cBkRRlHGlRPZCiwVhaJyH3lMpeIiWiq+O8oDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Thu, 23 Jul 2026 23:02:45 +0200</pubDate>
             <sparkle:version>1</sparkle:version>

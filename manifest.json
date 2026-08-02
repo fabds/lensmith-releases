@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.1.7",
-  "minimumSupportedVersion": "0.1.5",
+  "latestVersion": "0.1.8",
+  "minimumSupportedVersion": "0.1.7",
   "killSwitch": false,
   "message": "Aggiorna Lensmith all'ultima versione",
   "downloadURL": "https://github.com/fabds/lensmith-releases/releases/latest",

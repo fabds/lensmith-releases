@@ -5,7 +5,8 @@
   "downloadURL": "https://github.com/fabds/lensmith-releases/releases/latest",
   "betaCodeHashes": [
     "5ef68fe3f49d8bf14ec9a63150535ad5788fecb78ff0f55ea9aff85932065f0d",
-    "e33cc33acde156bc09df42e01a38585536aeed6182fd798f7b052c85b0fd2312"
+    "e33cc33acde156bc09df42e01a38585536aeed6182fd798f7b052c85b0fd2312",
+    "01ec191cc7ddc9674095a7e5bb290992c37872eb84d3f99ca208634d180608a0"
   ],
   "allowsUsageOptOut": false
 }

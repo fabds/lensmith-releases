@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lensmith.app/logo.png" alt="Lensmith" width="120">
+  <img src="logo.png" alt="Lensmith" width="120">
 </p>
 
 <h1 align="center">Lensmith</h1>
@@ -7,18 +7,19 @@
 <p align="center"><em>Craft every image.</em></p>
 
 <p align="center">
-  <a href="https://github.com/fabds/lensmith-releases/releases/tag/updates"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffabds%2Flensmith-releases%2Fmain%2Fmanifest.json&query=%24.latestVersion&label=version&color=F5B347" alt="Latest version"></a>
-  <img src="https://img.shields.io/badge/macOS-14.6%2B-lightgrey?logo=apple" alt="macOS 14.6+">
-  <img src="https://img.shields.io/badge/arch-Apple%20silicon%20%2B%20Intel-8A8F97" alt="Universal binary">
-  <img src="https://img.shields.io/badge/access-invite%20only-E96034" alt="Invite only">
-  <img src="https://img.shields.io/github/downloads/fabds/lensmith-releases/updates/total?label=downloads&color=444" alt="Downloads">
+  <a href="https://github.com/fabds/lensmith-releases/releases/tag/updates"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffabds%2Flensmith-releases%2Fmain%2Fmanifest.json&query=%24.latestVersion&label=version&color=B4501F" alt="Latest version"></a>
+  <img src="https://img.shields.io/badge/macOS-14.6%2B-E9E9E6?logo=apple" alt="macOS 14.6+">
+  <img src="https://img.shields.io/badge/arch-Apple%20silicon%20%2B%20Intel-7E7A73" alt="Universal binary">
+  <img src="https://img.shields.io/badge/access-invite%20only-DA5D25" alt="Invite only">
+  <img src="https://img.shields.io/github/downloads/fabds/lensmith-releases/updates/total?label=downloads&color=121212" alt="Downloads">
 </p>
 
 ---
 
-**Lensmith is a photo manager and non-destructive editor for macOS** — a modern
-Lightroom alternative, with on-device AI for the tedious parts: denoise, deblur,
-object removal, depth-driven bokeh, super-resolution and colorization.
+**Lensmith is a photo manager and non-destructive RAW editor for macOS**, with
+on-device AI for the tedious parts: denoise, deblur, object removal,
+depth-driven bokeh, super-resolution and colorization. Nothing is uploaded —
+every model runs on your Mac.
 
 This repository **is not the source code.** Lensmith is developed in a private
 repo; this public one is where the app is *published*: installers, the update

@@ -3,6 +3,21 @@
     <channel>
         <title>Lensmith</title>
         <item>
+            <title>0.1.18</title>
+            <pubDate>Tue, 01 Sep 2026 18:02:33 +0200</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith-0.1.18.zip" length="103038211" type="application/octet-stream" sparkle:edSignature="tEZRLHAMcZRCrg9wbQsPA+8cIBlI2TSHGu4KdnXxxWhBk2q3sB2G9gF8guvqbrdyVn/AOtfXciC1/skLH7GqAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith19-18.delta" sparkle:deltaFrom="18" length="6594834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mJNqM/tnvfhZM4qS8/1oLKc5L+5Z/Pijg7OtqLUCL850ANFja5mEEXj5vI25XJDeO0znQXHVNTGTd22hr/orCA=="/>
+                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith19-17.delta" sparkle:deltaFrom="17" length="7737178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DQMW4/OvOwk0vutIhoGxQb0V4Ts7rC70z12eMwreEGwJROUhi68DGcXLyQWPPMC/6wRybO1lBaogH20HdXNVCw=="/>
+                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith19-16.delta" sparkle:deltaFrom="16" length="10308210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CE0RB60JxL9iZgpp/JZrJGxh/Wrl4qWPa015RJ2qvy553PwOelcu6WlveuJeXWsrzqBbTyvGCYgZMCfx4BcHAA=="/>
+                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith19-15.delta" sparkle:deltaFrom="15" length="12580186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="beIxcxoY1pMWqXeKuGsVH2Q+Jd45oTyoXAi0l4/7MULP0CRhODSNWMQspuNh4zPyU7Z64UUR15EjfBDcDYA1Dw=="/>
+                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith19-14.delta" sparkle:deltaFrom="14" length="13533550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y/k8QUf6/i+bi6i3Cq9ODXQEm9A2r46e9lxsQ8h2G9qCkksOcRWtKVFcm4JJszziDJOTkJdDsqAK5lqd4JPWDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.17</title>
             <pubDate>Mon, 31 Aug 2026 22:38:44 +0200</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith17-14.delta" sparkle:deltaFrom="14" length="12341650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cmcYVj7PjaVADq22R0jWxh1Pa4lIjmPzZN7QOzZgefJYrhiYurSkiCdDk+LsTcNn8lJXHQmfIHddLXMe3Oz1Ag=="/>
                 <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith17-13.delta" sparkle:deltaFrom="13" length="12935370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pBl8RpKZxFrpgadTgKhzFawFbVZQB6ebRankBe1vo6ezkepet7FiA7IvxIrmofvh0MhjM5DfUnx1GE4DDs4NDA=="/>
                 <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith17-12.delta" sparkle:deltaFrom="12" length="14412750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9YUIJfvL2FPigRojkQUShWWXSx8lK1x/sZW5CRE8KepmqYbbQzzPrcS+fV+CYAR1fCkj46hOH4qq4x70MCQHAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.15</title>
-            <pubDate>Fri, 21 Aug 2026 17:54:18 +0200</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith-0.1.15.zip" length="101628979" type="application/octet-stream" sparkle:edSignature="ksvcuHx3DIxjiob20Cs4i63pO6CqF31MCU/AOpaOezlPr7wBWM4LJROSGAnWlCPLZBewyRoz2GpWI1Zp3L6jAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith16-15.delta" sparkle:deltaFrom="15" length="8616466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iDnZY+J/40y/sV0Mkz9XTVltn5oBW3EbkGKtlhxA0Xm7bXPIpcZejdxTTIh+b41hUtFmvCIgrzWywCrZgBahAA=="/>
-                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith16-14.delta" sparkle:deltaFrom="14" length="10337126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K3xWOLQsBxBCef3aQQZuJjCwXPgnL0y1VPF9iARugxzlg52KD8LepcIl6itqjNIv2rUTKPu4PzPD8YiQszD4Dg=="/>
-                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith16-13.delta" sparkle:deltaFrom="13" length="11063198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4C9zAZsoc/EzMGIzRdjyhQJ3CeudBboYjVrfK4sLu14UMc/atPTVWs4g/Mk3iMiLUnP2hiZLe0vRAw4llyvzCw=="/>
-                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith16-12.delta" sparkle:deltaFrom="12" length="12352154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PJiemg5DgR5JiqII31h1XoEt9WBb2hLIxsm0yuc5HpIqlBMy/u7VNsbwHR1RDIVnO98SXu7l1w6nSMN2+wQTBw=="/>
-                <enclosure url="https://github.com/fabds/lensmith-releases/releases/download/updates/Lensmith16-11.delta" sparkle:deltaFrom="11" length="15485978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VX3C6LThAN9vBp0Im5ZDcA73CFfSmegCMiBguRW+r0ayy4rD4MnMax0auqwfBpds/pucLQzjfhDyCVBFzfDeBw=="/>
             </sparkle:deltas>
         </item>
         <item>

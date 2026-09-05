@@ -11,15 +11,5 @@
     "dd6fee2737f37f2377bb859be6903b04dd7663c9ab508aedc35e67e944680fbb",
     "3898dc33553681c5d0c171897ac89f621f356028cbd4cb78c2500562e1ee981d"
   ],
-  "allowsUsageOptOut": false,
-  "news": {
-    "id": "caf5c22c3fa4",
-    "title": "Lorem ipsum",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "url": "https://lensmith.app/",
-    "imageURL": "https://lensmith.app/shot-edit.jpg",
-    "linkTitle": "Vai",
-    "expiresAt": "2026-11-08T21:26:00-09:00",
-    "everyLaunch": false
-  }
+  "allowsUsageOptOut": false
 }

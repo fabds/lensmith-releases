@@ -20,6 +20,6 @@
     "imageURL": "https://lensmith.app/shot-edit.jpg",
     "linkTitle": "Vai",
     "expiresAt": "2026-11-08T21:26:00-09:00",
-    "everyLaunch": true
+    "everyLaunch": false
   }
 }

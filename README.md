@@ -39,7 +39,7 @@ feed, and the Core ML models the app downloads on demand.
    App Store and is not notarized yet, so macOS warns that it "can't verify" the
    app. Open **System Settings ▸ Privacy & Security**, scroll to **Security**,
    and click **Open Anyway**. The
-   [installation guide](https://lensmith.app/install.html) walks through it with
+   [installation guide](https://lensmith.app/docs/install.html) walks through it with
    screenshots, including the Terminal fallback:
    ```sh
    xattr -dr com.apple.quarantine /Applications/Lensmith.app
@@ -74,7 +74,7 @@ app asks you to update before continuing.
 
 The heavy Core ML models are **not bundled**: shipping all six would triple the
 download for people who never use them. Each one is fetched on first use from
-the [`models-v1` release](https://github.com/fabds/lensmith-releases/releases/tag/models-v1)
+the [`models-v2` release](https://github.com/fabds/lensmith-releases/releases/tag/models-v2)
 into `~/Library/Application Support/Lensmith/Models`, and you can delete that
 folder any time — the app re-downloads what it needs.
 
@@ -99,7 +99,7 @@ Subject, sky and skin masking use [SAM 2.1 Tiny](https://huggingface.co/apple/co
 | [`manifest.json`](manifest.json) | Release gate read by every running copy: `latestVersion`, `minimumSupportedVersion`, `killSwitch`, `message`, `downloadURL`, and the SHA-256 hashes of valid invite codes |
 | [`appcast.xml`](appcast.xml) | Sparkle update feed — signed enclosures for each build |
 | Release **`updates`** | `Lensmith-<version>.dmg` (first install) and `Lensmith-<version>.zip` (what Sparkle installs) |
-| Release **`models-v1`** | The six Core ML models, as AppleArchive `.aar` |
+| Release **`models-v2`** | The six Core ML models, as AppleArchive `.aar` |
 
 Invite codes appear here only as **SHA-256 hashes** — the manifest is public, so
 the codes themselves never are. Revoking a code means removing its hash: the
@@ -151,6 +151,6 @@ inside it keep their own licenses, reproduced in full under
 
 <p align="center">
   <a href="https://lensmith.app/">lensmith.app</a> ·
-  <a href="https://lensmith.app/install.html">Installation guide</a> ·
+  <a href="https://lensmith.app/docs/install.html">Installation guide</a> ·
   <a href="https://github.com/fabds/lensmith-releases/releases">All releases</a>
 </p>

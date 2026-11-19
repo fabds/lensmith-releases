@@ -4,8 +4,7 @@
   "killSwitch": true,
   "downloadURL": "https://github.com/fabds/lensmith-releases/releases/latest",
   "betaCodeHashes": [
-    "e33cc33acde156bc09df42e01a38585536aeed6182fd798f7b052c85b0fd2312",
-    "fc9910a27f1e0150158d8166253eeee9e3b95800fb1f8328317ab7d6dd1df0e6"
+    "e33cc33acde156bc09df42e01a38585536aeed6182fd798f7b052c85b0fd2312"
   ],
   "allowsUsageOptOut": false
 }

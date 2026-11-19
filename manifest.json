@@ -3,8 +3,6 @@
   "minimumSupportedVersion": "0.1.28",
   "killSwitch": true,
   "downloadURL": "https://github.com/fabds/lensmith-releases/releases/latest",
-  "betaCodeHashes": [
-    "e33cc33acde156bc09df42e01a38585536aeed6182fd798f7b052c85b0fd2312"
-  ],
+  "betaCodeHashes": [],
   "allowsUsageOptOut": false
 }
